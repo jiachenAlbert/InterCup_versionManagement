@@ -1,0 +1,2 @@
+# InterCup_versionManagement
+英特尔杯期间的文档与代码版本管理
